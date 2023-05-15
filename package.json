@@ -1,0 +1,23 @@
+{
+  "name": "react-flow-autolayout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit-it-is/react-flow-autolayout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohit-it-is/react-flow-autolayout/issues"
+  },
+  "homepage": "https://github.com/Mohit-it-is/react-flow-autolayout#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
